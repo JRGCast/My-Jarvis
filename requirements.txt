@@ -13,7 +13,7 @@ PyScreeze==0.1.28
 python-decouple==3.5
 python-dotenv==0.19.2
 python3-xlib==0.15
-pyttsx3==2.6
+pyttsx3==2.71
 pytweening==1.0.4
 pywhatkit==5.2
 requests==2.26.0
